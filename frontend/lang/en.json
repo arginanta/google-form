@@ -1,0 +1,6 @@
+{
+  "SERVER_ERROR": "Server internal error",
+  "INVALID_PASSWORD": "Password wrong",
+  "USER_NOT_FOUND": "User / email not found",
+  "EMAIL_IS_REQUIRED": "Email required"
+}

@@ -1,0 +1,19 @@
+{
+  "SERVER_ERROR": "Server mengalami gangguan, silahkan coba beberapa saat lagi",
+  "INVALID_PASSWORD": "Password tidak cocok",
+  "USER_NOT_FOUND": "User / email tidak di temukan",
+  "EMAIL_IS_REQUIRED": "Email harus di isi",
+
+  "FIELD_REQUIRED" : "{field} ini harus di isi",
+  "FIELD_MIN" : "{field} minimal {min} karakter",
+  "FIELD_CONFIRM" : "isi {fieldConfirm} tidak sama dengan {field}",
+  "EMAIL_INVALID" : "Format email tidak valid",
+  "EMAIL_EXIST" : "Email sudah terdaftar",
+
+  "INVALID_ID" :  "ID tidak valid",
+  "FORM_NOT_FOUND" :  "Form tidak ditemukan",
+
+  "SAVE_PROCESS" : "Sedang menyimpan data...",
+  "SAVE_SUCCESS" : "Data berhasil di simpan",
+  "SAVE_FAILED": "Data gagal di simpan"
+}
